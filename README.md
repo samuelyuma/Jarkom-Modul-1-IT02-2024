@@ -1,4 +1,4 @@
-# Kelompok IT02
+# Jarkom-Modul-1-IT02-2024
 
 Kelompok IT02 :
 | Nama | NRP |
