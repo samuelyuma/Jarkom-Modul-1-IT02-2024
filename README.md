@@ -16,15 +16,15 @@ Kelompok IT02 :
 
 ## How Many packets?!
 
-![packets](https://github.com/samuelyuma/Jarkom-Modul-1-IT02-2024/assets/118542326/45f2e37d-d5b5-4bde-8642-ebfdf9141546)
+![paket](https://github.com/samuelyuma/Jarkom-Modul-1-IT02-2024/assets/143835215/9fad7308-1baa-4a40-9094-eeea3b9721d0)
 
 ## trace him
 
-![trace](https://github.com/samuelyuma/Jarkom-Modul-1-IT02-2024/assets/118542326/62d0d29b-2419-4921-a4c5-02c7010bb7dc)
+![IPbjir](https://github.com/samuelyuma/Jarkom-Modul-1-IT02-2024/assets/143835215/66389fa8-15c6-4a44-ab00-bc0a15e8684c)
 
 ## malwleoleo
 
-![malwleoleo](https://github.com/samuelyuma/Jarkom-Modul-1-IT02-2024/assets/118542326/9eed327d-e133-4bc7-8511-914e8c5e0983)
+![malwer](https://github.com/samuelyuma/Jarkom-Modul-1-IT02-2024/assets/143835215/91f9589a-3c4c-46db-a4d4-527270114336)
 
 ## whoami
 
