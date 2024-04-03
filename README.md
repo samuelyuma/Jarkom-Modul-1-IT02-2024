@@ -71,11 +71,11 @@ Sebagai kewajiban untuk laporan, aku diminta untuk mencari tahu berapa kali atte
 
 ### Penyelesaian
 
-Berdasarkan soal
+Berdasarkan soal, kita diminta untuk mecari berapa banyak attempt yang dilakukan oleh hacker. Maka dari itu Kita hitung jumlah dari login yang terdapat dari TCP stream. Seperti pada screenshoot dibawah, apabila kita hitung secara manual, maka akan keluar angka 934. Dan pada saat dicoba dimasukkan pada soal, hasilnya benar.
 
 ![paket](https://github.com/samuelyuma/Jarkom-Modul-1-IT02-2024/assets/143835215/9fad7308-1baa-4a40-9094-eeea3b9721d0)
 
-Dari hasil pengerjaan soal, diperoleh flag ``
+Dari hasil pengerjaan soal, diperoleh flag `JARKOM2024{C0unt_uR_P4cket5_9JwkRbxjgAdo88t}`
 
 ## trace him
 
@@ -104,9 +104,15 @@ Dapatkah kamu menemukan file malware yang dikirim oleh attacker melalui ftp?
 
 ### Penyelesaian
 
+Pada soal, kita diminta untuk mencari nama file yang dikirim oleh attacker, untuk mencarinya, kita harus membuka TCP stream, kemudian setelah berada pada TCP stream, Kita cari stream dimana terdapat suatu nama file, Pada Kasus ini, nama filenya ialah m4L1c10us_W4re.c, seperti screenshot dibawah
+
+![image](https://github.com/samuelyuma/Jarkom-Modul-1-IT02-2024/assets/143835215/38233a7c-9950-4445-984c-dd661b6dff22)
+
+Kemudian pada saat kita coba memasukkan m4L1c10us_W4re.c seperti pada screenshot dibawah, didapatkan Flag
+
 ![malwer](https://github.com/samuelyuma/Jarkom-Modul-1-IT02-2024/assets/143835215/91f9589a-3c4c-46db-a4d4-527270114336)
 
-Dari hasil pengerjaan soal, diperoleh flag ``
+Dari hasil pengerjaan soal, diperoleh flag `JARKOM2024{beC4refUl_0f_m4lwAr3_uJwkRznfQAFoC4q}`
 
 ## whoami
 
