@@ -194,9 +194,24 @@ Dari hasil pengerjaan soal, diperoleh flag `JARKOM2024{l0_Blm_tW_MIO_MIRZA?_uTr8
 
 ## malwaew
 
+Pada percobaan malwaew, disini kita diminta untuk mencari SHA 256 dari malware yang dimaksud oleh soal. 
+
+Pada percobaan ini, pertama tama kita masuk ke bagian preferences dari wireshark, kemudian menuju ke bagian protocol TLS seperti pada screenshot dibawah ini 
+
+![image](https://github.com/samuelyuma/Jarkom-Modul-1-IT02-2024/assets/143835215/db143786-6271-4952-9086-de7212ca2b66)
+
+Kemudian kita masukkan keylog pada PreMaster Secret log filename, kemudian klik ok. Kemudian kita beralih ke file > export HTTP seperti pada screenshot dibawah.
+
+![image](https://github.com/samuelyuma/Jarkom-Modul-1-IT02-2024/assets/143835215/9307e89f-ee99-4594-990e-9225fe0e0009)
+
+Setelah itu klik pada filename invest_20.dll , kemudian klik save.
 
 ![image](https://github.com/samuelyuma/Jarkom-Modul-1-IT02-2024/assets/143835215/8b152cbe-2f40-4f58-85b1-0ad531f3f84c)
 
+Pada screenshot diatas, file yang sudah di save saya pindahkan menuju ke linux kemudian dengan command `sha256sum` didapatkan SHA256 dari invest_20.dll 
+
 ![image](https://github.com/samuelyuma/Jarkom-Modul-1-IT02-2024/assets/143835215/104733d0-44d2-47a3-894f-6683404e8a28)
 
-`Flag: JARKOM2024{wow_how_u_solve_this_chfRYcnyy6FsRrB}`
+Kemudian pada saat sha dicoba dimasukkan, maka kita mendapatkan Flag: `JARKOM2024{wow_how_u_solve_this_chfRYcnyy6FsRrB}`
+
+
