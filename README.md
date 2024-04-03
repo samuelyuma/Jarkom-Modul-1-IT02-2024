@@ -181,4 +181,7 @@ Dari hasil pengerjaan soal, diperoleh flag `JARKOM2024{l0_Blm_tW_MIO_MIRZA?_uTr8
 
 ## malwaew
 
-Karena kesulitan dan keterbatasan waktu, kami tidak dapat mengerjakan soal malwaew 🙏🏻
+
+![image](https://github.com/samuelyuma/Jarkom-Modul-1-IT02-2024/assets/143835215/8b152cbe-2f40-4f58-85b1-0ad531f3f84c)
+
+![image](https://github.com/samuelyuma/Jarkom-Modul-1-IT02-2024/assets/143835215/104733d0-44d2-47a3-894f-6683404e8a28)
