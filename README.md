@@ -85,9 +85,16 @@ Selain menghitung jumlah packet, coba lacak juga ip penyerang tersebut!
 
 ### Penyelesaian
 
+Pertama tama kita lihat terlebih dahulu pada bagian dimana penyerang melakukan sebuah request. Kemudian setelah di klik, kita lihat ke bagian kiri bawah.
+
+![image](https://github.com/samuelyuma/Jarkom-Modul-1-IT02-2024/assets/143835215/8a999e9d-8ae2-4d5b-99f1-0d28956ebeb2)
+
+Dapat dilihat pada bagian kiri bawah terdapat internet protocol Version 4, klik pada bagian itu. Kemudian seperti pada screenshot dibawah, akan ada source address. source address tersebut merupakan ip dari penyerang tersebut
+
 ![IPbjir](https://github.com/samuelyuma/Jarkom-Modul-1-IT02-2024/assets/143835215/66389fa8-15c6-4a44-ab00-bc0a15e8684c)
 
-Dari hasil pengerjaan soal, diperoleh flag ``
+
+Dari hasil pengerjaan soal, diperoleh flag `JARKOM2024{Wh3re'5_thE_S4uce_c6wRRbxtlRVoCr9}`
 
 ## malwleoleo
 
@@ -185,3 +192,5 @@ Dari hasil pengerjaan soal, diperoleh flag `JARKOM2024{l0_Blm_tW_MIO_MIRZA?_uTr8
 ![image](https://github.com/samuelyuma/Jarkom-Modul-1-IT02-2024/assets/143835215/8b152cbe-2f40-4f58-85b1-0ad531f3f84c)
 
 ![image](https://github.com/samuelyuma/Jarkom-Modul-1-IT02-2024/assets/143835215/104733d0-44d2-47a3-894f-6683404e8a28)
+
+`Flag: JARKOM2024{wow_how_u_solve_this_chfRYcnyy6FsRrB}`
