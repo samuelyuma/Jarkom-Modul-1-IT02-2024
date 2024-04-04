@@ -39,7 +39,7 @@ Dari hasil analisis, diperoleh credential seperti yang tertera pada screenshot. 
 
 ![Screenshot 2024-03-30 211719](https://github.com/samuelyuma/Jarkom-Modul-1-IT02-2024/assets/118542326/a0777494-f8af-490f-b7b6-146f78c7c931)
 
-Dari hasil pengerjaan soal, diperoleh flag `JARKOM2024{s3curE_uR_FtP_IJ8lPbnygRFHC4Y}`
+Dari hasil pengerjaan soal, diperoleh flag `JARKOM2024{s3curE_uR_FtP_I6fRvbpHlAVeCA9}`
 
 ## ATM or ATP or FTP ? 🤔
 
@@ -186,11 +186,13 @@ Temukan pesan rahasia dari attacker
 
 ### Penyelesaian
 
-Untuk mengerjakan soal ini, pertama kita dapat menganalisis TCP Stream 14 yang mana didalamnya terdapat informasi tentang 2 file yang berbeda, yaitu ` m4L1c10us_W4re.c``` dan  `mirza.jpg` . Karena file ```m4L1c10us_W4re.c``` berisi pesan terenkripsi yang mengandung nama dari attacker, maka kita akan menganalisis file ```mirza.jpg```dengan cara `Exports Object > FTP-DATA`dan diperoleh teks`MIO MIRZA` sebagai jawaban dari soal
+Untuk mengerjakan soal ini, pertama kita dapat menganalisis TCP Stream 14 yang mana didalamnya terdapat informasi tentang 2 file yang berbeda, yaitu  `m4L1c10us_W4re.c` dan  `mirza.jpg` . Karena file `m4L1c10us_W4re.c` berisi pesan terenkripsi yang mengandung nama dari attacker, maka kita akan menganalisis file `mirza.jpg` dengan cara `Exports Object > FTP-DATA` dan diperoleh teks `MIO MIRZA` sebagai jawaban dari soal
 
 ![Screenshot 2024-03-30 233217](https://github.com/samuelyuma/Jarkom-Modul-1-IT02-2024/assets/118542326/0b413a5a-e468-446c-bbbc-cca00fa71dca)
 
 Dari hasil pengerjaan soal, diperoleh flag `JARKOM2024{l0_Blm_tW_MIO_MIRZA?_uTr8R7pyiRVHCrq}`
+
+## Revisi
 
 ## malwaew
 
@@ -204,7 +206,7 @@ Kemudian kita masukkan keylog pada PreMaster Secret log filename, kemudian klik 
 
 ![image](https://github.com/samuelyuma/Jarkom-Modul-1-IT02-2024/assets/143835215/9307e89f-ee99-4594-990e-9225fe0e0009)
 
-Setelah itu klik pada filename invest_20.dll , kemudian klik save.
+Setelah itu klik pada filename `invest_20.dll`, kemudian klik save.
 
 ![image](https://github.com/samuelyuma/Jarkom-Modul-1-IT02-2024/assets/143835215/8b152cbe-2f40-4f58-85b1-0ad531f3f84c)
 
